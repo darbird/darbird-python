@@ -25,9 +25,9 @@ setup(
     ],
     python_requires=">=2.7.10",
     author_email='developers@darbird.com',
-    url='https://github.com/AfricasTalkingLtd/africastalking-python',
-    download_url='https://codeload.github.com/AfricasTalkingLtd/africastalking-python/tar.gz/' + version,
-    keywords='ussd voice sms mpesa card bank b2b b2c sender_id payments airtime darbird',
+    url='https://github.com/darbird/darbird-python',
+    download_url='https://github.com/darbird/darbird-python/archive/1.0.tar.gz/',
+    keywords='voice sms sender_id darbird',
     classifiers=[],
     long_description=long_description,
     long_description_content_type='text/markdown'
