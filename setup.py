@@ -26,7 +26,7 @@ setup(
     python_requires=">=2.7.10",
     author_email='developers@darbird.com',
     url='https://github.com/darbird/darbird-python',
-    download_url='https://github.com/darbird/darbird-python/archive/1.0.tar.gz/',
+    download_url='https://github.com/darbird/darbird-python/archive/1.1.tar.gz/',
     keywords='voice sms sender_id darbird',
     classifiers=[],
     long_description=long_description,
