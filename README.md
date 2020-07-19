@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/pypi/v/darbird.svg)
 
-> The SDK provides convenient access to the Africa's Talking APIs to python apps.
+> The SDK provides convenient access to the Darbird APIs to python apps.
 
 
 ## Documentation
