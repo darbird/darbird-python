@@ -16,7 +16,7 @@ setup(
     version=version,
     packages=['darbird'],
     description='Official Darbird Python SDK',
-    data_files=[('', ['README.md'])],
+    data_files=[('', ['README.md' ])],
     license='MIT',
     author='Darbird',
     install_requires=[
